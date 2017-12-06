@@ -32,3 +32,6 @@ https://owlcarousel2.github.io/OwlCarousel2/
 
 AnimateNumber
 aishek.github.io/jquery-animateNumber/
+
+For More HTML5 Templates:
+https://themewagon.com
